@@ -1,6 +1,6 @@
 # TomatoPro – Stochastic Portfolio Optimiser for Tomato Processing (Nigeria)
 
-> An interactive decision-support tool built in Python (Pyomo + Streamlit) to help tomato
+> An interactive decision-support tool built in Python to help tomato
 > processing plant managers allocate fresh tomatoes across three product channels under
 > supply and price uncertainty.
 

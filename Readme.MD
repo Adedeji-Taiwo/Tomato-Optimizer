@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Launch App on Streamlit Cloud](https://your-app-name.streamlit.app) ← *replace after deployment*
+[Launch App on Streamlit Cloud](https://tomato-optimizer.streamlit.app/)
 
 ---
 
